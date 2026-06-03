@@ -1,0 +1,6 @@
+@bode_api_HostAddress = http://localhost:5188
+
+GET {{bode_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
