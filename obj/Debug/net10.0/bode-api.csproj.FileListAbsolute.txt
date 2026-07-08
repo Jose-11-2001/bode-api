@@ -31,3 +31,4 @@ C:\Projects\BODE\bode-api\obj\Debug\net10.0\refint\bode-api.dll
 C:\Projects\BODE\bode-api\obj\Debug\net10.0\bode-api.pdb
 C:\Projects\BODE\bode-api\obj\Debug\net10.0\bode-api.genruntimeconfig.cache
 C:\Projects\BODE\bode-api\obj\Debug\net10.0\ref\bode-api.dll
+C:\Projects\BODE\bode-api\obj\Debug\net10.0\bode-api.sourcelink.json

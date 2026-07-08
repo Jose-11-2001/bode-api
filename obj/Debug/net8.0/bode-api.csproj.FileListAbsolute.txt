@@ -1,0 +1,9 @@
+C:\Projects\BODE\bode-api\obj\Debug\net8.0\bode-api.csproj.AssemblyReference.cache
+C:\Projects\BODE\bode-api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Projects\BODE\bode-api\obj\Debug\net8.0\bode-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BODE\bode-api\obj\Debug\net8.0\bode-api.AssemblyInfoInputs.cache
+C:\Projects\BODE\bode-api\obj\Debug\net8.0\bode-api.AssemblyInfo.cs
+C:\Projects\BODE\bode-api\obj\Debug\net8.0\bode-api.csproj.CoreCompileInputs.cache
+C:\Projects\BODE\bode-api\obj\Debug\net8.0\bode-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\BODE\bode-api\obj\Debug\net8.0\bode-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\BODE\bode-api\obj\Debug\net8.0\bode-api.sourcelink.json
