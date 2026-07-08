@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bode-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a36290a1458390facb5c53f2c8b7bc5452126fa3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76c62eac9d3b38000dd667835e7f662e36ecff71")]
 [assembly: System.Reflection.AssemblyProductAttribute("bode-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bode-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
